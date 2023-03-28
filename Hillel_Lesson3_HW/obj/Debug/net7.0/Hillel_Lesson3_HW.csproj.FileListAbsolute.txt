@@ -1,0 +1,15 @@
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/bin/Debug/net7.0/Hillel_Lesson3_HW
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/bin/Debug/net7.0/Hillel_Lesson3_HW.deps.json
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/bin/Debug/net7.0/Hillel_Lesson3_HW.runtimeconfig.json
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/bin/Debug/net7.0/Hillel_Lesson3_HW.dll
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/bin/Debug/net7.0/Hillel_Lesson3_HW.pdb
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.csproj.AssemblyReference.cache
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.AssemblyInfoInputs.cache
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.AssemblyInfo.cs
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.csproj.CoreCompileInputs.cache
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.dll
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/refint/Hillel_Lesson3_HW.dll
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.pdb
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/Hillel_Lesson3_HW.genruntimeconfig.cache
+/Users/denis.klimovets/RiderProjects/Hillel_Lesson3_HW/Hillel_Lesson3_HW/obj/Debug/net7.0/ref/Hillel_Lesson3_HW.dll
